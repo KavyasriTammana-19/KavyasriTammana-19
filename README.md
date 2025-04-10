@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Tammana Kavyasri</h1>
+<h1 align="center">Hi 👋, I'm Kavyasri Tammana</h1>
 
-- 🌱 I’m currently learning **React, Node.js, Spring Boot, Power BI**
+- A Passionate Full Stack Developer From India**
 - 💻 I'm working on **Java Full Stack Projects**
 - 📫 Reach me at: [kavyasritammananvs@gmail.com](mailto:kavyasritammananvs@gmail.com)
 
